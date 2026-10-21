@@ -1,0 +1,84 @@
+{
+  "dated": [
+    {
+      "title": "Upadesa Saram, evening talks",
+      "ta": "உபதேச சாரம்",
+      "who": "Sri Ramanacharanatirtha (Nochur) Swami",
+      "dates": [
+        "2026-10-22",
+        "2026-10-23",
+        "2026-10-24",
+        "2026-10-25"
+      ],
+      "time": "6:30–8:30 PM",
+      "where": "Chennai. Venue for these dates isn’t shown clearly on the schedule page, so check before going.",
+      "lang": "Tamil",
+      "entry": "Free, all welcome, no registration",
+      "note": "Talks on Bhagavan Ramana Maharshi’s Upadesa Saram.",
+      "url": "https://www.voiceofrishis.org/pages/satsang-schedule",
+      "urlText": "Check venue on Voice of Rishis"
+    },
+    {
+      "title": "Upadesa Saram, morning talks",
+      "ta": "உபதேச சாரம்",
+      "who": "Sri Ramanacharanatirtha (Nochur) Swami",
+      "dates": [
+        "2026-10-23",
+        "2026-10-24",
+        "2026-10-25"
+      ],
+      "time": "10 AM–12 PM",
+      "where": "Chennai. Venue for these dates isn’t shown clearly on the schedule page, so check before going.",
+      "lang": "Tamil",
+      "entry": "Free, all welcome, no registration",
+      "note": "Morning sessions running alongside the evening series.",
+      "url": "https://www.voiceofrishis.org/pages/satsang-schedule",
+      "urlText": "Check venue on Voice of Rishis"
+    },
+    {
+      "title": "Isha monthly satsang",
+      "who": "Isha Foundation (Sadhguru)",
+      "rule": "firstSunday",
+      "time": "7:30 AM",
+      "where": "Your nearest Isha centre, or online",
+      "lang": "English, Tamil and other languages online",
+      "entry": "Free. Only for people initiated into Shambhavi Mahamudra Kriya",
+      "note": "Held on the first Sunday of every month. Come on an empty stomach and be seated 15 minutes early.",
+      "url": "https://isha.sadhguru.org/in/en/events/monthly/satsang",
+      "urlText": "Isha satsang page"
+    }
+  ],
+  "regular": [
+    {
+      "title": "Art of Living group practice",
+      "who": "Art of Living (Sri Sri Ravi Shankar)",
+      "when": "Weekly. Day varies by centre",
+      "where": "Art of Living centres across Chennai",
+      "entry": "Free. For people who have done the Art of Living course",
+      "note": "Drop-in sessions to refresh the breathing practices with a teacher.",
+      "url": "https://www.artofliving.org",
+      "urlText": "Find a centre"
+    },
+    {
+      "title": "ISKCON Chennai kirtan and satsang",
+      "who": "ISKCON, Sri Sri Radha Krishna Mandir",
+      "when": "Regular weekly programmes. Timings not confirmed",
+      "where": "Hare Krishna Land, Bhaktivedanta Swami Road, Akkarai, Sholinganallur",
+      "entry": "Open to all"
+    },
+    {
+      "title": "RSSB satsang",
+      "who": "Radha Soami Satsang Beas",
+      "when": "Regular satsangs. Timings not confirmed",
+      "where": "Local RSSB centre in Chennai",
+      "entry": "Open to all"
+    },
+    {
+      "title": "Sai bhajans and satsang",
+      "who": "Sri Sathya Sai Seva Organisation",
+      "when": "Weekly bhajans at local samithis. Timings not confirmed",
+      "where": "Neighbourhood samithis across Chennai",
+      "entry": "Open to all"
+    }
+  ]
+}
