@@ -1,8 +1,8 @@
 {
   "dated": [
     {
-      "title": "Upadesa Saram, evening talks",
-      "ta": "உபதேச சாரம்",
+      "title": "Arunachala Anubhavam, evening talks",
+      "ta": "அருணாசல அனுபவம்",
       "who": "Sri Ramanacharanatirtha (Nochur) Swami",
       "dates": [
         "2026-10-22",
@@ -10,13 +10,13 @@
         "2026-10-24",
         "2026-10-25"
       ],
-      "time": "6:30–8:30 PM",
-      "where": "Chennai. Venue for these dates isn’t shown clearly on the schedule page, so check before going.",
+      "time": "6:30–8 PM",
+      "where": "Coimbatore (not Chennai): Sri Ayyapan Puja Sangam, Sathyamurthy Rd, Peranaidu Layout, Ram Nagar, Coimbatore 641009",
       "lang": "Tamil",
       "entry": "Free, all welcome, no registration",
-      "note": "Talks on Bhagavan Ramana Maharshi’s Upadesa Saram.",
-      "url": "https://www.voiceofrishis.org/pages/satsang-schedule",
-      "urlText": "Check venue on Voice of Rishis"
+      "note": "Talks on Arunachala Anubhavam. Contact: Sri Shankar 9943349888, Sri Anand 9895599178.",
+      "url": "https://www.voiceofrishis.org/pages/satsang-schedule-redesign",
+      "urlText": "Schedule on Voice of Rishis"
     },
     {
       "title": "Upadesa Saram, morning talks",
@@ -27,13 +27,13 @@
         "2026-10-24",
         "2026-10-25"
       ],
-      "time": "10 AM–12 PM",
-      "where": "Chennai. Venue for these dates isn’t shown clearly on the schedule page, so check before going.",
+      "time": "10–11 AM",
+      "where": "Coimbatore (not Chennai): Sri Kothanda Rama Swamy Devasthanam, Sri Abhinava Vidhya Theertha Mandapam, Sapthagiri Towers, 10A Ramar Koil Street, Ram Nagar, Coimbatore 641009",
       "lang": "Tamil",
       "entry": "Free, all welcome, no registration",
-      "note": "Morning sessions running alongside the evening series.",
-      "url": "https://www.voiceofrishis.org/pages/satsang-schedule",
-      "urlText": "Check venue on Voice of Rishis"
+      "note": "Talks on Bhagavan Ramana Maharshi’s Upadesa Saram. Contact: Sri T P Viswanathan 9443344981.",
+      "url": "https://www.voiceofrishis.org/pages/satsang-schedule-redesign",
+      "urlText": "Schedule on Voice of Rishis"
     },
     {
       "title": "Isha monthly satsang",
