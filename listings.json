@@ -11,12 +11,13 @@
         "2026-10-25"
       ],
       "time": "6:30–8 PM",
-      "where": "Coimbatore (not Chennai): Sri Ayyapan Puja Sangam, Sathyamurthy Rd, Peranaidu Layout, Ram Nagar, Coimbatore 641009",
+      "where": "Sri Ayyapan Puja Sangam, Sathyamurthy Rd, Peranaidu Layout, Ram Nagar, Coimbatore 641009",
       "lang": "Tamil",
       "entry": "Free, all welcome, no registration",
       "note": "Talks on Arunachala Anubhavam. Contact: Sri Shankar 9943349888, Sri Anand 9895599178.",
       "url": "https://www.voiceofrishis.org/pages/satsang-schedule-redesign",
-      "urlText": "Schedule on Voice of Rishis"
+      "urlText": "Schedule on Voice of Rishis",
+      "city": "Coimbatore"
     },
     {
       "title": "Upadesa Saram, morning talks",
@@ -28,12 +29,13 @@
         "2026-10-25"
       ],
       "time": "10–11 AM",
-      "where": "Coimbatore (not Chennai): Sri Kothanda Rama Swamy Devasthanam, Sri Abhinava Vidhya Theertha Mandapam, Sapthagiri Towers, 10A Ramar Koil Street, Ram Nagar, Coimbatore 641009",
+      "where": "Sri Kothanda Rama Swamy Devasthanam, Sri Abhinava Vidhya Theertha Mandapam, Sapthagiri Towers, 10A Ramar Koil Street, Ram Nagar, Coimbatore 641009",
       "lang": "Tamil",
       "entry": "Free, all welcome, no registration",
       "note": "Talks on Bhagavan Ramana Maharshi’s Upadesa Saram. Contact: Sri T P Viswanathan 9443344981.",
       "url": "https://www.voiceofrishis.org/pages/satsang-schedule-redesign",
-      "urlText": "Schedule on Voice of Rishis"
+      "urlText": "Schedule on Voice of Rishis",
+      "city": "Coimbatore"
     },
     {
       "title": "Isha monthly satsang",
@@ -45,7 +47,8 @@
       "entry": "Free. Only for people initiated into Shambhavi Mahamudra Kriya",
       "note": "Held on the first Sunday of every month. Come on an empty stomach and be seated 15 minutes early.",
       "url": "https://isha.sadhguru.org/in/en/events/monthly/satsang",
-      "urlText": "Isha satsang page"
+      "urlText": "Isha satsang page",
+      "city": "Any"
     }
   ],
   "regular": [
@@ -57,28 +60,32 @@
       "entry": "Free. For people who have done the Art of Living course",
       "note": "Drop-in sessions to refresh the breathing practices with a teacher.",
       "url": "https://www.artofliving.org",
-      "urlText": "Find a centre"
+      "urlText": "Find a centre",
+      "city": "Chennai"
     },
     {
       "title": "ISKCON Chennai kirtan and satsang",
       "who": "ISKCON, Sri Sri Radha Krishna Mandir",
       "when": "Regular weekly programmes. Timings not confirmed",
       "where": "Hare Krishna Land, Bhaktivedanta Swami Road, Akkarai, Sholinganallur",
-      "entry": "Open to all"
+      "entry": "Open to all",
+      "city": "Chennai"
     },
     {
       "title": "RSSB satsang",
       "who": "Radha Soami Satsang Beas",
       "when": "Regular satsangs. Timings not confirmed",
       "where": "Local RSSB centre in Chennai",
-      "entry": "Open to all"
+      "entry": "Open to all",
+      "city": "Chennai"
     },
     {
       "title": "Sai bhajans and satsang",
       "who": "Sri Sathya Sai Seva Organisation",
       "when": "Weekly bhajans at local samithis. Timings not confirmed",
       "where": "Neighbourhood samithis across Chennai",
-      "entry": "Open to all"
+      "entry": "Open to all",
+      "city": "Chennai"
     }
   ]
 }

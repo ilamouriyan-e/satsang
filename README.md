@@ -22,6 +22,7 @@ Fields (only `title` and `who` are required; leave out anything you don't know):
 | `time` | dated | e.g. `"6:30–8:30 PM"` |
 | `when` | regular | e.g. `"Weekly, Sundays 6 PM"` |
 | `where` | both | Venue |
+| `city` | both | `"Chennai"`, another city (e.g. `"Coimbatore"`), or `"Any"` for online or nearest-centre events. Only `Chennai` and `Any` show when the Location dropdown is set to Chennai |
 | `lang` | dated | Language |
 | `entry` | both | Cost or who can attend |
 | `note` | both | Short extra detail |
@@ -36,6 +37,7 @@ Example dated entry:
   "dates": ["2026-11-07", "2026-11-08"],
   "time": "6–7:30 PM",
   "where": "Mylapore",
+  "city": "Chennai",
   "entry": "Free"
 }
 ```
