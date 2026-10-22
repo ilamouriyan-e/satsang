@@ -49,6 +49,94 @@
       "url": "https://isha.sadhguru.org/in/en/events/monthly/satsang",
       "urlText": "Isha satsang page",
       "city": "Any"
+    },
+    {
+      "title": "Gospel of Sri Ramakrishna, Friday discourse",
+      "who": "Swami Satyaprabhananda",
+      "dates": [
+        "2026-10-23",
+        "2026-10-30"
+      ],
+      "time": "5:30–6:15 PM",
+      "where": "Swami Ramakrishnananda Hall, Sri Ramakrishna Math, 31 Ramakrishna Math Road, Mylapore, Chennai 600004",
+      "city": "Chennai",
+      "lang": "Tamil",
+      "entry": "Free, all welcome",
+      "note": "Part of the Math’s October programme of evening discourses.",
+      "url": "https://imedia.chennaimath.org/blogs/post/monthly-program-invitation",
+      "urlText": "Ramakrishna Math monthly programme"
+    },
+    {
+      "title": "Srimad Bhagavad Gita, Saturday discourse",
+      "who": "Swami Suprajnananda",
+      "dates": [
+        "2026-10-24",
+        "2026-10-31"
+      ],
+      "time": "5:30–6:15 PM",
+      "where": "Swami Ramakrishnananda Hall, Sri Ramakrishna Math, 31 Ramakrishna Math Road, Mylapore, Chennai 600004",
+      "city": "Chennai",
+      "lang": "Tamil",
+      "entry": "Free, all welcome",
+      "url": "https://imedia.chennaimath.org/blogs/post/monthly-program-invitation",
+      "urlText": "Ramakrishna Math monthly programme"
+    },
+    {
+      "title": "Thayumanavar’s Parabarakkanni, Thursday discourse",
+      "ta": "பராபரக்கண்ணி",
+      "who": "Swami Apavargananda",
+      "dates": [
+        "2026-10-22",
+        "2026-10-29"
+      ],
+      "time": "5:30–6:15 PM",
+      "where": "Swami Ramakrishnananda Hall, Sri Ramakrishna Math, 31 Ramakrishna Math Road, Mylapore, Chennai 600004",
+      "city": "Chennai",
+      "lang": "Tamil",
+      "entry": "Free, all welcome",
+      "url": "https://imedia.chennaimath.org/blogs/post/monthly-program-invitation",
+      "urlText": "Ramakrishna Math monthly programme"
+    },
+    {
+      "title": "Narada Bhakti Sutras talk and Sri Lakshmi Puja",
+      "who": "Swami Raghunayakananda",
+      "dates": [
+        "2026-10-25"
+      ],
+      "time": "Talk with guided meditation 5:30–6:15 PM; Lakshmi Puja with bhajans 6:30–8:55 PM",
+      "where": "Sri Ramakrishna Math, 31 Ramakrishna Math Road, Mylapore, Chennai 600004",
+      "city": "Chennai",
+      "entry": "Free, all welcome",
+      "url": "https://imedia.chennaimath.org/blogs/post/monthly-program-invitation",
+      "urlText": "Ramakrishna Math monthly programme"
+    },
+    {
+      "title": "Sri Sri Kali Puja (Deepavali)",
+      "who": "Sri Ramakrishna Math, Chennai",
+      "dates": [
+        "2026-11-08"
+      ],
+      "time": "Through the night",
+      "where": "Sri Ramakrishna Math, 31 Ramakrishna Math Road, Mylapore, Chennai 600004",
+      "city": "Chennai",
+      "entry": "Free, all welcome",
+      "note": "Whole-night puja. The start time is only on the invitation image, so check the link.",
+      "url": "https://imedia.chennaimath.org/blogs/post/sri-sri-kali-puja-2026-invitation",
+      "urlText": "Kali Puja 2026 invitation"
+    },
+    {
+      "title": "Holy Mother Sri Sarada Devi Jayanti",
+      "who": "Sri Ramakrishna Math, Chennai",
+      "dates": [
+        "2026-12-30"
+      ],
+      "time": "Time not announced yet",
+      "where": "Sri Ramakrishna Math, 31 Ramakrishna Math Road, Mylapore, Chennai 600004",
+      "city": "Chennai",
+      "entry": "Free, all welcome",
+      "note": "From the Math’s festival calendar. The day’s programme is usually announced closer to the date.",
+      "url": "https://imedia.chennaimath.org/blogs/post/festival-calendar-2026-27",
+      "urlText": "Ramakrishna Math festival calendar"
     }
   ],
   "regular": [
@@ -86,6 +174,58 @@
       "where": "Neighbourhood samithis across Chennai",
       "entry": "Open to all",
       "city": "Chennai"
+    },
+    {
+      "title": "Special Sunday bhajans",
+      "who": "Sri Ramakrishna Math, Chennai",
+      "when": "Every Sunday, 7–7:45 PM",
+      "where": "Sri Ramakrishna Math, 31 Ramakrishna Math Road, Mylapore, Chennai 600004",
+      "city": "Chennai",
+      "entry": "Free, all welcome",
+      "url": "https://imedia.chennaimath.org/blogs/post/monthly-program-invitation",
+      "urlText": "Ramakrishna Math monthly programme"
+    },
+    {
+      "title": "Vedanta classes: Anubhutiprakasha (Sat) and Ashtavakra Gita (Sun)",
+      "who": "Swami Paramarthananda",
+      "when": "Saturdays and Sundays, 6–7 PM",
+      "where": "Bala Vidya Mandir, Fourth Main Road, Gandhi Nagar, Adyar, Chennai 600020",
+      "city": "Chennai",
+      "entry": "Free, all welcome",
+      "note": "In English.",
+      "url": "https://www.yogamalika.org/class-schedule/",
+      "urlText": "Class schedule on Yoga Malika"
+    },
+    {
+      "title": "Vedanta classes, early morning",
+      "who": "Swami Paramarthananda",
+      "when": "Fridays, Saturdays and Sundays, 7–8 AM",
+      "where": "Asthika Samajam, Venus Colony 1st Street, Alwarpet, Chennai 600018",
+      "city": "Chennai",
+      "entry": "Free, all welcome",
+      "note": "In English. Texts: Upadesasahasri, Sutra Bhashyam and Chandogya Bhashyam.",
+      "url": "https://www.yogamalika.org/class-schedule/",
+      "urlText": "Class schedule on Yoga Malika"
+    },
+    {
+      "title": "Upanishad class (Mundaka Upanishad)",
+      "who": "Swami Paramarthananda",
+      "when": "Mondays, 11 AM–12 noon",
+      "where": "Sankaralayam, 66 Mayor V.R. Ramanathan Road, Chetpet, Chennai 600031",
+      "city": "Chennai",
+      "entry": "Free, all welcome",
+      "note": "In English.",
+      "url": "https://www.yogamalika.org/class-schedule/",
+      "urlText": "Class schedule on Yoga Malika"
+    },
+    {
+      "title": "Group meditation and satsanga",
+      "who": "Yogoda Satsanga Society of India (Paramahansa Yogananda)",
+      "when": "Sundays 10 AM–12 noon; long meditation Thursdays 4–7 PM; children’s satsanga 1st and 3rd Sundays, 10:30 AM–12",
+      "where": "Yogoda Satsanga Dhyana Kendra, 14A/31 South Boag Road, T. Nagar, Chennai 600017",
+      "city": "Chennai",
+      "url": "https://yssofindia.org/location/chennai-centre",
+      "urlText": "YSS Chennai centre"
     }
   ]
 }
